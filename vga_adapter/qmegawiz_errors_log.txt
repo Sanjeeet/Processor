@@ -1,0 +1,19 @@
+
+
+W:/ECE342_CD/Lab4/Lab4_starter_kit/vga_adapter/vga_pll.v
+
+Aug 24 05PM:49:31>: Error in CNX file format.
+
+Error messages are listed in file
+W:/ECE342_CD/Lab4/Lab4_starter_kit/vga_adapter/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+W:/ECE342_CD/Lab4/Lab4_starter_kit/vga_adapter/vga_pll.v
+
+Aug 24 07PM:31:00>: Error in CNX file format.
+
+Error messages are listed in file
+W:/ECE342_CD/Lab4/Lab4_starter_kit/vga_adapter/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
